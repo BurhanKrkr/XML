@@ -1,0 +1,10 @@
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\bin\Debug\XML-DOSYA İŞLEMLERİ.exe.config
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\bin\Debug\XML-DOSYA İŞLEMLERİ.exe
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\bin\Debug\XML-DOSYA İŞLEMLERİ.pdb
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\obj\Debug\XML-DOSYA İŞLEMLERİ.csprojAssemblyReference.cache
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\obj\Debug\XML_DOSYA_İŞLEMLERİ.Form1.resources
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\obj\Debug\XML_DOSYA_İŞLEMLERİ.Properties.Resources.resources
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\obj\Debug\XML-DOSYA İŞLEMLERİ.csproj.GenerateResource.cache
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\obj\Debug\XML-DOSYA İŞLEMLERİ.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\obj\Debug\XML-DOSYA İŞLEMLERİ.exe
+C:\Users\Burhan\Desktop\XML-DOSYA İŞLEMLERİ\XML-DOSYA İŞLEMLERİ\obj\Debug\XML-DOSYA İŞLEMLERİ.pdb
